@@ -5,6 +5,7 @@ on:
     branches:
       - my-main-app
 
+
 jobs:
   lint:
     runs-on: ubuntu-latest
