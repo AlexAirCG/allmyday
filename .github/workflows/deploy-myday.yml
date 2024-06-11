@@ -3,7 +3,7 @@ name: deploy myday
 on:
   push:
     branches:
-      - main
+      - my-main
 
 jobs:
   lint:
