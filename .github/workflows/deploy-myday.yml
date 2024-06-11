@@ -3,7 +3,8 @@ name: deploy myday
 on:
   push:
     branches:
-      - feature/add-h1
+      - my-main-app
+
 
 jobs:
   lint:
